@@ -11,6 +11,8 @@ This is a collection of my paper reviews.
 - <a href="./bbvi.png">Black box variational inference</a>
 - <a href="./fixingabrokenelbo.png">Fixing a broken elbo</a>
 - <a href="./generalizedevidencebounds.png">Variational Inference and Model Selection with Generalized Evidence Bounds</a>
+
+## Computer Vision Papers
 - <a href="./otsusmethod.pdf">A Threshold selection method from Gray-Level Histograms</a>
 - <a href="./segmentationasselectivesearch.pdf">Segmentation as selective search for object recognition</a>
 
