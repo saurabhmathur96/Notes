@@ -51,11 +51,13 @@ Tom Mitchell's Def'n
 
     `e_i = Y_i - Y(x_1, ..., x_n)`
 - Objective: Find `Beta_0, ..., Beta_n` such that error is minimum.
+
 #### Prediction
 - Plug in the values of `x_1, ..., x_n` into the model.
 - The predicted value of `Y`, called `YHat` is given by
 
     `YHat = Beta_0 + Beta_1 * x_1 + ... + Beta_n * x_n`
+    
 ### Logistic Regression
 - A Classification algorithm - i.e. output is a class.
 - Finds probabilities of belonging to a particular class.
