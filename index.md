@@ -7,38 +7,40 @@ This is a collection of my notes and paper reviews.
 
 ## Machine Learning
 
-### Notes
-- <a href="./ml/machinelearning.pdf">Lecture notes</a>
-
 ### Papers
 - <a href="./ml/autoencodingvb.png">Auto-Encoding Variational Bayes</a>
 - <a href="./ml/bbvi.png">Black box variational inference</a>
 - <a href="./ml/fixingabrokenelbo.png">Fixing a broken elbo</a>
 - <a href="./ml/generalizedevidencebounds.png">Variational Inference and Model Selection with Generalized Evidence Bounds</a>
 
-## Computer Vision 
-
 ### Notes
-- <a href="./cv/basics.pdf">Lecture notes</a>
+- <a href="./ml/machinelearning.pdf">Lecture notes</a>
+
+
+
+## Computer Vision 
 
 ### Papers
 - <a href="./cv/otsusmethod.pdf">A Threshold selection method from Gray-Level Histograms</a>
 - <a href="./cv/segmentationasselectivesearch.pdf">Segmentation as selective search for object recognition</a>
 
+### Notes
+- <a href="./cv/basics.pdf">Lecture notes</a>
+
+
 
 ## Deep Learning 
 
-
 ### Papers 
-- <a href="./dl/deepreview.md">Deep learning (Nature, 2015)</a></li>
-- <a href="./dl/Distributed Representations of Words and Phrases and their Compositionality.md">Distributed Representations of Words and Phrases and their Compositionality</a></li>
-- <a href="./dl/dropout.md">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></li>
-- <a href="./dl/Gradient flow in Recurrent Nets.md">Gradient flow in Recurrent Nets</a></li>
-- <a href="./dl/Handwritten Digit Recognition with a Back-Propagation Network.md">Handwritten Digit Recognition with a Back-Propagation Network</a></li>
-- <a href="./dl/How to Construct Deep Recurrent Neural Networks.md">How to Construct Deep Recurrent Neural Networks</a></li>
-- <a href="./dl/ImageNet Classification with Deep Convolutional Neural Networks.md">ImageNet Classification with Deep Convolutional Neural Networks</a></li>
-- <a href="./dl/LSTM A Search Space Odyssey.md">LSTM: A Search Space Odyssey</a></li>
-- <a href="./dl/Reducing the Dimensionality of Data with Neural Networks.md">Reducing the Dimensionality of Data with Neural Networks</a>
+- <a href="./dl/deepreview">Deep learning (Nature, 2015)</a>
+- <a href="./dl/Distributed Representations of Words and Phrases and their Compositionality">Distributed Representations of Words and Phrases and their Compositionality</a>
+- <a href="./dl/dropout">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>
+- <a href="./dl/Gradient flow in Recurrent Nets">Gradient flow in Recurrent Nets</a>
+- <a href="./dl/Handwritten Digit Recognition with a Back-Propagation Network">Handwritten Digit Recognition with a Back-Propagation Network</a>
+- <a href="./dl/How to Construct Deep Recurrent Neural Networks">How to Construct Deep Recurrent Neural Networks</a>
+- <a href="./dl/ImageNet Classification with Deep Convolutional Neural Networks">ImageNet Classification with Deep Convolutional Neural Networks</a>
+- <a href="./dl/LSTM A Search Space Odyssey">LSTM: A Search Space Odyssey</a>
+- <a href="./dl/Reducing the Dimensionality of Data with Neural Networks">Reducing the Dimensionality of Data with Neural Networks</a>
 
 ## Systems 
 
